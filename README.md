@@ -82,7 +82,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
-* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+<<* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 *Backup libraries.*
 
@@ -109,8 +109,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 * [KeyBase](https://www.keybase.io/) - Encrypted chat, cloud and git.
-
-## Cloning
+>>>>>>>+master
+=====
+* * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client
+>>>>>>>-1a0345c
+# Cloning
 
 *Cloning software.*
 
@@ -804,4 +807,9 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+<<<<<<This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+>>>>>>>+master
+=
+# Contributing
+Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
+>>>>>>> 1a0345c
