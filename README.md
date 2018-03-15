@@ -57,6 +57,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
+* [Contributing](#contributing)
 
 
 ## Backups
