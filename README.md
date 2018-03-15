@@ -19,7 +19,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Control Panels](#control-panels)
   * [Deployment Automation](#deployment-automation)
-  * [Diagramming](#diagramming)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Editors](#editors)
@@ -185,7 +184,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
 * [iTop](http://www.combodo.com/-Overview-.html) - Complete open source, ITIL, web based service management tool.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
-* [Sicekit](https://github.com/sicekit/sicekit) - The systems & infrastructure encyclopaedia toolkit (based on MediaWiki).
+* [Sicekit](https://github.com/sicekit/sicekit) - The systems & infrastructure encyclopaedia toolkit (based on mediawiki).
 
 ## Configuration Management
 
@@ -236,12 +235,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
-
-## Diagramming
-
-*Tools to diagram networks.*
-
-* [drawthe.net](http://go.drawthe.net/) - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 
 ## Distributed Filesystems
 
@@ -297,7 +290,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
-* [Netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
@@ -423,8 +415,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-* [~~dashing~~](http://dashing.io/) - __No Longer Maintained__ - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-* [Smashing](https://github.com/Smashing/smashing) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms. Fork of Dashing.
+* [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
 * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI.
@@ -697,7 +688,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
 * [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - Wiki completely built in HTML5/Javascript and runs 100% on the client.
-* [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
+* [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
 * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
 * [Ōlelo Wiki](https://github.com/minad/olelo) - A a wiki that stores pages in a Git repository.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
