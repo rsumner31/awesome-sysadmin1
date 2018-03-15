@@ -326,6 +326,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 
+## IT Asset Management
+*IT Assets Management software.*
+
+* [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
+* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
+
 ## LDAP
 
 *LDAP servers.*
@@ -477,6 +483,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
+
+## Network Configuration Management
+*Network configuration management tools.*
+
+* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
 ## Network Configuration Management
 *Network configuration management tools.*
