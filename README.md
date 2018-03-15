@@ -183,6 +183,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko) 
 
 ## Configuration Management Database
 
