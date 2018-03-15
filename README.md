@@ -263,6 +263,16 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
+## Distributed Filesystems
+*Network distributed filesystems.*
+
+* [Ceph](http://ceph.com/) - Distributed object store and file system.
+* [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
+* [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+* [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
+* [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
+* [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
+
 ## DNS
 
 *DNS servers.*
