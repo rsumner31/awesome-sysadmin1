@@ -57,7 +57,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
-* [Contributing](#contributing)
 
 
 ## Backups
@@ -78,11 +77,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
+* [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program 
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
-<<* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 *Backup libraries.*
 
@@ -109,11 +109,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 * [KeyBase](https://www.keybase.io/) - Encrypted chat, cloud and git.
->>>>>>>+master
-=====
-* * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client
->>>>>>>-1a0345c
-# Cloning
+
+## Cloning
 
 *Cloning software.*
 
@@ -182,12 +179,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
-## Cloud Storage
-
-* [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
-* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
-* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko) 
-
 ## Configuration Management Database
 
 *Configuration management database (CMDB) software.*
@@ -224,6 +215,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
 * [Spinnaker](http://www.spinnaker.io/) - Open source, multi-cloud continuous delivery platform for releasing software changes.
+* [TeamCity](https://www.jetbrains.com/teamcity/) - Powerful Continuous Integration out of the box
 
 ## Control Panels
 
@@ -272,16 +264,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
-## Distributed Filesystems
-*Network distributed filesystems.*
-
-* [Ceph](http://ceph.com/) - Distributed object store and file system.
-* [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
-* [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
-* [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
-* [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-* [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
-
 ## DNS
 
 *DNS servers.*
@@ -328,18 +310,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
 * [OpenDCIM](http://www.opendcim.org/) - A web based Data Center Infrastructure Management application.
-
-## IT Asset Management
-*IT Assets Management software.*
-
-* [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
-
-## IT Asset Management
-*IT Assets Management software.*
-
-* [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 
 ## LDAP
 
@@ -492,18 +462,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
-
-## Network Configuration Management
-*Network configuration management tools.*
-
-* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
-* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-
-## Network Configuration Management
-*Network configuration management tools.*
-
-* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
-* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
 ## Newsletters
 
@@ -679,7 +637,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Taiga](https://taiga.io/) - Agile, Free, Open Source Project Management Tool based on the Kanban and Scrum methods.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
-* [Flyspray](http://flyspray.org) - Written in PHP.
 
 ## Version control
 
@@ -724,6 +681,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Web servers.*
 
 * [Apache](http://httpd.apache.org/) - Most popular web server.
+* [Caddy](https://caddyserver.com/) - The HTTP/2 Web Server with Fully Managed TLS.
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
 * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
@@ -733,6 +691,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
 * [Squid](http://www.squid-cache.org/) - Caching proxy for the web supporting HTTP, HTTPS, FTP, and more.
+* [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
 ## Webmails
@@ -808,9 +767,4 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-<<<<<<This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
->>>>>>>+master
-=
-# Contributing
-Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
->>>>>>> 1a0345c
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
