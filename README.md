@@ -89,6 +89,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
+* [Concourse CI](https://concourse.ci/) - A pipeline-based CI system written in Go.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
