@@ -172,6 +172,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
+## Cloud Storage
+
+* [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
+* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+
 ## Configuration Management Database
 
 *Configuration management database (CMDB) software.*
